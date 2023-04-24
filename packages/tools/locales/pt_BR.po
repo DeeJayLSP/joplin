@@ -1089,23 +1089,23 @@ msgstr "A versão atual está atualizada."
 
 #: packages/lib/models/Note.ts:38
 msgid "custom order"
-msgstr "ordem customizada"
+msgstr "ordem personalizada"
 
 #: packages/app-desktop/gui/NoteList/NoteList.tsx:167
 msgid "Custom order"
-msgstr "Ordem customizada"
+msgstr "Ordem personalizada"
 
 #: packages/lib/models/Setting.ts:1298
 msgid "Custom stylesheet for Joplin-wide app styles"
-msgstr "Folha de estilos customizada para estilos do app Joplin"
+msgstr "Folha de estilos personalizada para estilos do app Joplin"
 
 #: packages/lib/models/Setting.ts:1281
 msgid "Custom stylesheet for rendered Markdown"
-msgstr "Folha de estilos customizada para Markdown renderizado"
+msgstr "Folha de estilos personalizada para Markdown renderizado"
 
 #: packages/lib/models/Setting.ts:1440
 msgid "Custom TLS certificates"
-msgstr "Certificados TLS customizados"
+msgstr "Certificados TLS personalizados"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:18
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/CodeMirror.tsx:804
@@ -1921,7 +1921,7 @@ msgstr ""
 
 #: packages/app-cli/app/command-help.js:36
 msgid "For information on how to customise the shortcuts please visit %s"
-msgstr "Para informações sobre como customizar os atalhos, por favor visite %s"
+msgstr "Para informações sobre como personalizar os atalhos, por favor visite %s"
 
 #: packages/app-mobile/components/screens/encryption-config.tsx:291
 msgid ""
